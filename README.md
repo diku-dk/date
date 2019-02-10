@@ -7,8 +7,8 @@ designed for simplicity (and thereby speed).
 ## Installation
 
 ```
-futhark-pkg add github.com/diku-dk/date
-futhark-pkg sync
+futhark pkg add github.com/diku-dk/date
+futhark pkg sync
 ```
 
 ## Usage

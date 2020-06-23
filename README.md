@@ -1,4 +1,4 @@
-# Date library for Futhark [![Documentation](https://futhark-lang.org/pkgs/github.com/diku-dk/date/status.svg)](https://futhark-lang.org/pkgs/github.com/diku-dk/date/latest/)
+# Date library for Futhark [![CI](https://github.com/diku-dk/date/workflows/CI/badge.svg)](https://github.com/diku-dk/date/actions) [![Documentation](https://futhark-lang.org/pkgs/github.com/diku-dk/date/status.svg)](https://futhark-lang.org/pkgs/github.com/diku-dk/date/latest/)
 
 A simple date library.  Inspired by code from LexiFi.  This library
 does not handle any ancient calendars or anything like that.  It's
